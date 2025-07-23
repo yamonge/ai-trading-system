@@ -1,6 +1,10 @@
 """
 AI Trading System - FastAPI Backend
 자비스처럼 똑똑한 AI 어시스턴트가 만든 백엔드 API
+
+TODO: PostgreSQL 데이터베이스 연결 추가
+TODO: 사용자 인증 시스템 구현  
+TODO: WebSocket 실시간 데이터 스트리밍
 """
 
 from fastapi import FastAPI, HTTPException
